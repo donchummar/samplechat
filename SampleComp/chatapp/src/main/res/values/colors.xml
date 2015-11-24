@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_500">#00baf2</color>
+    <color name="primary_700">#303F9F</color>
+    <color name="accent_500">#FFFFFF</color>
+    <color name="accent_700">#C2185B</color>
+    <color name="black_trans80">#33000000</color>
+    <color name="separators">#cccccc</color>
+    <color name="header_color">#0A3152</color>
+    <color name="sub_header">#0B5A9C</color>
+    <color name="product_name_color">#A4C4DD</color>
+
+</resources>
